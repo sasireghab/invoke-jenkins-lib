@@ -18,6 +18,7 @@ pipeline
 			{
 				fromLibarary()
 				fromTestBranch()
+				echo "from jenkinsfile..."
 			}
 		}
 	
